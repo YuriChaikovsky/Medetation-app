@@ -1,1 +1,1 @@
-Medetation app
+Meditation app
